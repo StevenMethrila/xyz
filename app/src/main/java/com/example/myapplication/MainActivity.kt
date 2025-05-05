@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             CustomScreen()
+            //add comment_1
         }
     }
 }
